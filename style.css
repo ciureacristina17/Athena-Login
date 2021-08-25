@@ -1,0 +1,99 @@
+#home {
+    background-color: #0c0000;
+}
+
+header {
+    background-color: #0c0000;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    margin-left: 700px;
+}
+
+.nav-link {
+    margin-left: 150px;
+}
+
+.about {
+    margin-left: 220px;
+}
+
+aside {
+    width: 50%;
+    float: right;
+    margin-top: -590px;
+    color: white;
+}
+
+aside p {
+    margin-top: 20px;
+    color: white;
+}
+
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #ba3e04;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ba3e04;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: .25rem;
+}
+
+.form-control-plaintext {
+    display: block;
+    width: 100%;
+    padding-top: .375rem;
+    padding-bottom: .375rem;
+    margin-bottom: 0;
+    line-height: 1.5;
+    color: #ba3e04;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-width: 1px 0;
+}
+
+aside h6 {
+    margin-top: -22px;
+    margin-left: 227px;
+    font-weight: 400;
+    color: #ba3e04;
+}
+
+.btn.btn-free {
+    margin-top: 60px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.btn.btn-create-account {
+    margin-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#welcome {
+    color: #ba3e04;
+}
+
+.login {
+    margin-top: 60px;
+    margin-left: 130px;
+    color: #ba3e04;
+}
+
+.fab.fa-google,
+.fab.fa-facebook-f {
+    font-size: 40px;
+}
